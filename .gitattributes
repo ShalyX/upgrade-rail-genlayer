@@ -1,0 +1,3 @@
+# These examples are exact Studio source-byte artifacts. Preserve CRLF bytes.
+examples/guarded_target.py -text
+examples/guarded_target_v2.py -text
